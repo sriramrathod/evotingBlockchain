@@ -1,0 +1,20 @@
+how to run steps
+
+open anaconda prompt from search
+
+type 
+
+conda activate tf ( enter )
+type
+
+cd C:\Users\shast\OneDrive\Desktop\EVoting ( enter )
+
+type 
+
+python manage.py runserver ( enter u will get ip address then copy this link paste in chrome website will open ) 
+
+
+http://127.0.0.1:8000/index.html
+
+admin
+admin
